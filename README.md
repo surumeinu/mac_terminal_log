@@ -1,6 +1,7 @@
 # At First & install
 
 git clone ${this repository}
+
 . mac_terminal_log/install.sh
 
 # --説明--
