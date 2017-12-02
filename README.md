@@ -1,6 +1,6 @@
 # At First & install
 
-$ git clone ${this repository}
+$ git clone https://github.com/surumeinu/mac_terminal_log.git
 
 $ . mac_terminal_log/install.sh
 
