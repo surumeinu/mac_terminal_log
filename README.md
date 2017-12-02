@@ -1,9 +1,9 @@
-At First & install
+# At First & install
 
-# git clone ${this repository}
-# . mac_terminal_log/install.sh
+git clone ${this repository}
+. mac_terminal_log/install.sh
 
---説明--
+# --説明--
 install.shは/User/${USER}/.bash_profileにterminallog.shとrotation.shを実行するコマンドを追記し、
 terminallog.shとrotation.shを/User/${USER}/.logfiles配下に配置します。
 
