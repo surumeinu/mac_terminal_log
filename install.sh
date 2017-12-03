@@ -2,6 +2,7 @@
 loggingfile=/Users/${USER}/.logfiles/terminallog.sh
 rotatingfile=/Users/${USER}/.logfiles/rotation.sh
 execfile=/Users/${USER}/.bash_profile
+mkdir -p /Users/${USER}/.logfiles
 script=". ${loggingfile}"
 addscript=`cat ${execfile} | grep "${script}"`
 if [ ! -n "$addscript" ]; then
